@@ -1,0 +1,36 @@
+name: instagram_copy_core
+description: A new Flutter package project.
+version: 0.0.1
+homepage: a
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3
+  gap: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  assets:
+    - assets/icons/
+  fonts:
+    - family: sf_pro_display
+      fonts: 
+        - asset: assets/fonts/sf_pro_display/sf_pro_display_regular.otf
+          weight: 400
+        - asset: assets/fonts/sf_pro_display/sf_pro_display_medium.OTF
+          weight: 500
+        
