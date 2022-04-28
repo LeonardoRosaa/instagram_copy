@@ -11,7 +11,7 @@
 
 ### /instagram_copy_core
 
-`instagram_copy_core` is the design system to the application. Saved here something about guide system(typography, colors, spaces) and components such as: texts, icons, scaffold, etc...
+`instagram_copy_core` is the design system to the application. Saved here something about style guid(typography, colors, spaces) and components such as: texts, icons, scaffold, etc...
 
 # TO DO
 - [ ] Add splash screen;
